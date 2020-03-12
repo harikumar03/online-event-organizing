@@ -1,2 +1,2 @@
-# online-event-organizing
+# online-event-organizer
 online event organizing
